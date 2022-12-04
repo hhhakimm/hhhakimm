@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hhhakimm
-- 👀 I’m interested in web development 
+- 👀 I’m interested in web development (HTML, CSS, JavaScript, ReactJS)
 - 🌱 I’m a self-taught web developer
 - 💞️ I’m looking to collaborate on entry level web developing projects
 - 📫 How to reach me : <br>(freeCodeCamp) https://www.freecodecamp.org/hhhakimm_
