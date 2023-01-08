@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hakim
 - 👀 I’m interested in web development (HTML, CSS, JavaScript, ReactJS)
 - 🌱 I’m a self-taught web developer
-- 💞️ I’m looking to collaborate on entry level web developing projects
+- 💞️ I’m looking to collaborate on entry level web development projects
 - 📫 How to reach me : <br>(freeCodeCamp) https://www.freecodecamp.org/hhhakimm_
                         <br>(stackoverflow)https://stackoverflow.com/users/16598102/amirul-hakim-bin-baharizam
 
