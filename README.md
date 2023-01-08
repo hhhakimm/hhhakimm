@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hhhakimm
+- 👋 Hi, I’m Hakim
 - 👀 I’m interested in web development (HTML, CSS, JavaScript, ReactJS)
 - 🌱 I’m a self-taught web developer
 - 💞️ I’m looking to collaborate on entry level web developing projects
