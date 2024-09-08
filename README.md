@@ -3,8 +3,8 @@
 - 🌱 I’m a web developer
 - 💞️ I’m looking to collaborate on any Javascript related projects
 - 📫 How to reach me : <br>(freeCodeCamp) https://www.freecodecamp.org/hhhakimm_
-- <br>(stackoverflow) https://stackoverflow.com/users/16598102/amirul-hakim-bin-baharizam
-- <br>(portfolio) https://hhhakimm.github.io/freeCodeCamp-RWD-PersonalPortfolioWebpage/
+  <br>(stackoverflow) https://stackoverflow.com/users/16598102/amirul-hakim-bin-baharizam
+  <br>(portfolio) https://hhhakimm.github.io/freeCodeCamp-RWD-PersonalPortfolioWebpage/
                         
 
 <!---
